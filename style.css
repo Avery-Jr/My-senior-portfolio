@@ -30,3 +30,7 @@ font-size: 25px;
     color: rgb(21, 255, 52);
 background: #2d0036;
 }
+
+img{
+    align-items: right;
+}
