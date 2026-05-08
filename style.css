@@ -31,6 +31,7 @@ font-size: 25px;
 background: #2d0036;
 }
 
-img{
-    align-items: right;
+.img-fluid{
+    width: 100%;
+    height: 100%;
 }
