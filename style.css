@@ -46,8 +46,19 @@ button{
     font-weight: 400;
     font-style: normal;
     font-size: auto;
-    color:rgb(7, 210, 21);
 }
-a:hover {
-  color:rgb(7, 210, 21);
+
+button:hover{
+    transition: 0.7s;
+    background:#6c1cdc; 
+}
+
+/*PB means project button*/
+.PB{
+color:rgb(7, 210, 21);
+}
+
+.PB:hover {
+    transition: 0.5s;
+  color:rgb(210, 203, 7);
 }
