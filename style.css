@@ -46,6 +46,12 @@ ul li a:hover {
   background-color: #111111;
 }
 
+.dropdown{
+  padding: 14px 16px;
+  float: left;
+  overflow: hidden;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
