@@ -1,0 +1,15 @@
+
+
+| Avery K Simpson Jr Game Developer | ![][image1] Avery K Simpson Jr 160-08 111th ave Jamaica, NY, 111th ave 11433 aj550501@gmail.com |
+| :---- | :---- |
+| **ㅡ Contacts** Git LD Email  | ![][image2] **About** I can use coding languages such as Html, Css, Javascript, and C\# to make websites and gaming applications. I can create both 2D and 3D art assets and animations using blender and other applications, can produce a well written narrative, and can produce miscellaneous assets such as music and sfx. I can work responsibly and respectfully with either a team or on my own in a professional manner. I can manage my time and meet deadlines when needed, and can efficiently solve problems when needed. |
+| **ㅡ Skills** HTML  CSS  Java Script  C\#   Unity  Blender | ![][image3] **Experience ATTAIN Lab , 301 Henry Street Manhattan, NY — Intern** November 2024 \- December 2024 At The Henry Street ARRAIN Lab in Manhattan, I helped as a teaching assistant in a program where we taught middle aged people how to use tools such as Microsoft Word. My role was to help anyone who was falling behind in the lesson and to answer questions about the material. |
+| **ㅡ Awards/Certifacations** Html and Css certified Java Script certified | ![][image4] **Education George Westinghouse Career and Technical Education High School — Computer Science** September 2023 \- June 2026, 105 Tech Pl, Brooklyn, NY 11201 At George Westinghouse I would learn the basics of web development, those being HTML and CSS, as well as Java Script. I would learn how to use these 3 languages together to build various websites, overtime going from building sites only consisting of a front end, to full websites consisting of both a front and back end. I would even learn how to make some of these sites accessible for devices of various screen sizes. **Urban Arts Game Academy, 39 W 19th St 5th floor, NY, NY — Game Development** July 2025 \- June 2026 At Urban Arts Game Academy, I learnt how to build both 2D and 3D games using Unity through Game Academy’s 6 week summer intensive of 2025, and their after school program through the school year of 2025 \- 2026\. I would many learn other skills that came along with developing games such as using C\# and Blender, those being the main tools I would use to build the majority of my projects in this program throughout my time at Game Academy. I would also develop my skills in visuals, narrative design, and audio assets. |
+
+[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAADCAYAAADRPAuQAAAAJElEQVR4Xu3IoQEAAAgDoP3/tB6wroVAIUkGAB5VAMClCgA4syuD4VfZZ5HoAAAAAElFTkSuQmCC>
+
+[image2]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAADCAYAAADRPAuQAAAAJElEQVR4Xu3IoQEAAAgDoP3/tB6wroVAIUkGAB5VAMClCgA4syuD4VfZZ5HoAAAAAElFTkSuQmCC>
+
+[image3]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAADCAYAAADRPAuQAAAAJElEQVR4Xu3IoQEAAAgDoP3/tB6wroVAIUkGAB5VAMClCgA4syuD4VfZZ5HoAAAAAElFTkSuQmCC>
+
+[image4]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAADCAYAAADRPAuQAAAAJElEQVR4Xu3IoQEAAAgDoP3/tB6wroVAIUkGAB5VAMClCgA4syuD4VfZZ5HoAAAAAElFTkSuQmCC>
